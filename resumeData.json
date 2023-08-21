@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Kevin Sun",
+    "description":"Senior Computer Technician @ Mighty Ape Limited | AWS, CCNA",
+    "image":"Yuxin1.jpg",
+    "bio":"My name is Kevin, I'm a technology enthusiast with extensive experience in resolving hardware, software, and network-related challenges. I possess the ability to independently troubleshoot and resolve end-user issues proficiently.",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "kevinsunyx@gmail.com",
+    "phone": "+64 21 038 7818",
+    "github":"https://github.com/kevinsunyx",
+    "project":"https://linkedin.com/in/kevinsunyx",
+    "address":{
+      "line1":"Address: 26A Arirang Rise, Albany",
+      "line2":"City: Auckland",
+      "line3":"Country: New Zealand"
+    },
+    "youtube":{
+      "english": {
+        "name": "Kevin Sun",
+        "url": "https://www.youtube.com/"
+      },
+      "chinese": {
+        "name": "Kevin Sun",
+        "url":"https://www.youtube.com/"
+      }
+    },
+    "website": "http://github.com/kevinsunyx",
+    "resumedownload":"./images/Yuxin(Kevin) Sun's CV.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kevinsunyx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kevinsunyx/",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"Massey University",
+        "degree":"Graduate Diploma in Information Science with distinction",
+        "graduated":"",
+        "description":""
+      },
+      {
+        "school":"Jiangnan University",
+        "degree":"Bachelor of Science in Information and Computing Science",
+        "graduated":"",
+        "description":""
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Mighty Ape Ltd",
+        "title":"Senior Computer Technician",
+        "years":"4/2022 - Present",
+        "description":"My skill set (hardware / software / network) and experience demonstrate a strong ability in IT support. "
+        
+      }
+    
+    ],
+    "skills":[
+      {
+        "name":"Windows 10/11 configuration and support",
+        "level":"95%"
+      },
+      {
+        "name":"scripting, coding and automation",
+        "level":"85%"
+      },
+      {
+        "name":"business level networking and firewall technologies",
+        "level":"90%"
+      },
+      {
+        "name":"Problem Solving abilities",
+        "level":"95%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/"
+      },
+      {
+        "title":"Video",
+        "description": "",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/"
+      }
+    ]
+  }
+}
